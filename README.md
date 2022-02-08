@@ -1,4 +1,4 @@
-### Hi there 👋
+### ✨MPhys✨- Physics with Particle Physics and Cosmology
 
 <!--
 **NParhar/NParhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
