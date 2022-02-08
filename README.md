@@ -1,4 +1,4 @@
-**NParhar/NParhar** 
+**NParhar** 
 ### MPhys- Physics with Particle Physics and Cosmology
 
 <!--
