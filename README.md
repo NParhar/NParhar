@@ -1,5 +1,4 @@
-**NParhar** 
-### MPhys- Physics with Particle Physics and Cosmology
+### MPhys- Physics with Particle Physics and Cosmology (Oct 2017 - Jun 2021)
 
 <!--
 **NParhar/NParhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
